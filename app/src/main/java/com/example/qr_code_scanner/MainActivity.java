@@ -19,7 +19,6 @@ import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
 import org.pytorch.Module;
-import org.pytorch.Tensor;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -73,9 +72,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public Tensor generateTensor(int size) {
+    //public Tensor generateTensor(int size) {
 
-    }
+    //}
     private void requestCameraPermission() {
         if (ActivityCompat.shouldShowRequestPermissionRationale(this, Manifest.permission.CAMERA)) {
             // 권한 요청에 대한 설명 보여주기
