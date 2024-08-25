@@ -1,7 +1,7 @@
 - Qshing 방지 APP
 
 선정 배경
-![image](https://github.com/user-attachments/assets/c94675d8-11aa-40c4-955b-a04d73a54d0f)
+<br>![image](https://github.com/user-attachments/assets/c94675d8-11aa-40c4-955b-a04d73a54d0f)<br>
 
 
 시스템 설명 요약
